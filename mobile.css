@@ -36,9 +36,9 @@ body {
     display: block;
     margin: auto;
     background-color: white;
-    max-width: 78%; /* 78% */
+    max-width: 88%; /* 78% */
     min-height: 100%;
-    box-shadow: 20px 0px 50px 0px black;
+    box-shadow: 0px 0px 50px 0px white;
 }
 
 .container-img {
