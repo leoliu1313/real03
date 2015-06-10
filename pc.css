@@ -1,35 +1,26 @@
+.container-background {
+    font-size: 20px;
+}
+
+p.title-left {
+    font-size: 30px;
+}
+
 .row-top {
     height: 100px; /* 13% */
-    text-align: left;
     padding: 33px; /* 3% */
 }
 
 .row-margin {
-    margin-top: 0;
     margin-bottom: 60px; /* 8% */
-    margin-left: 0;
-    margin-right: 0;
 }
 
 .row-margin-small {
-    margin-top: 0;
     margin-bottom: 40px; /* 7.5% */
-    margin-left: 0;
-    margin-right: 0;
 }
 
 .row-bottom-margin {
     margin-bottom: 120px; /* 14.5% */
-}
-
-.row-side-margin {
-    margin-left: 10%; /* 10% */
-    margin-right: 10%; /* 10% */
-}
-
-.row-side-margin-small {
-    margin-left: 5%; /* part of 10% */
-    margin-right: 5%; /* part of 10% */
 }
 
 .img-banner-small {

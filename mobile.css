@@ -25,7 +25,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.8;
-    font-size: 20px;
+    font-size: 15px;
     font-family: "Helvetica Light";
     color: #787878;
     background-color: #2b2b2b;
@@ -90,28 +90,25 @@ p {
 }
 
 p.title {
-    font-size: 20px;
     font-family: "Helvetica Medium";
     color: #494949;
     text-align: center;
 }
 
 p.title-left {
-    font-size: 30px;
+    font-size: 20px;
     font-family: "Helvetica Light";
     color: #494949;
     text-align: left;
 }
 
 p.title-left-small {
-    font-size: 20px;
     font-family: "Helvetica Medium";
     color: #494949;
     text-align: left;
 }
 
 p.title-reverse {
-    font-size: 20px;
     font-family: "Helvetica Light";
     color: white;
     background-color: #9e9e9f;
