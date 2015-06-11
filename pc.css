@@ -10,6 +10,10 @@
 p.title-left {
     font-size: 30px;
 }
+	
+p.title-reverse {
+    line-height: 120px; /* 13.75% */
+}
 
 .row-top {
     height: 100px; /* 13% */

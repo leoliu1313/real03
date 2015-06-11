@@ -59,20 +59,20 @@ body {
 
 .row-margin {
     margin-top: 0;
-    margin-bottom: 50px; /* 8% */
+    margin-bottom: 15px; /* 8% */
     margin-left: 0;
     margin-right: 0;
 }
 
 .row-margin-small {
     margin-top: 0;
-    margin-bottom: 30px; /* 7.5% */
+    margin-bottom: 10px; /* 7.5% */
     margin-left: 0;
     margin-right: 0;
 }
 
 .row-bottom-margin {
-    margin-bottom: 60px; /* 14.5% */
+    margin-bottom: 30px; /* 14.5% */
 }
 
 .row-side-margin {
@@ -93,6 +93,7 @@ p.title {
     font-family: "Helvetica Medium";
     color: #494949;
     text-align: center;
+    margin-bottom: 0;
 }
 
 p.title-left {
@@ -100,12 +101,14 @@ p.title-left {
     font-family: "Helvetica Light";
     color: #494949;
     text-align: left;
+    margin-bottom: 0;
 }
 
 p.title-left-small {
     font-family: "Helvetica Medium";
     color: #494949;
     text-align: left;
+    margin-bottom: 0;
 }
 
 p.title-reverse {
@@ -113,7 +116,8 @@ p.title-reverse {
     color: white;
     background-color: #9e9e9f;
     text-align: center;
-    line-height: 120px; /* 13.75% */
+    line-height: 60px; /* 13.75% */
+    margin-bottom: 0;
 }
 
 .img-logo {
