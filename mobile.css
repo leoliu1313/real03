@@ -1,3 +1,4 @@
+/*
 @font-face {
     font-family: "Helvetica Light";
     src: url(HELVETICA_ULTIMATE_FAMILY_FONTS/Helvetica-Light.otf);
@@ -7,6 +8,7 @@
     font-family: "Helvetica Medium";
     src: url(HELVETICA_ULTIMATE_FAMILY_FONTS/Helvetica.otf);
 }
+*/
 
 html,
 body {
@@ -26,7 +28,8 @@ body {
     padding: 0;
     line-height: 1.8;
     font-size: 13px;
-    font-family: "Helvetica Light";
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
     color: #787878;
     background-color: #2b2b2b;
     text-align: left;
@@ -90,7 +93,7 @@ p {
 }
 
 p.title {
-    font-family: "Helvetica Medium";
+    font-weight: 600;
     color: #494949;
     text-align: center;
     margin-bottom: 0;
@@ -98,21 +101,21 @@ p.title {
 
 p.title-left {
     font-size: 20px;
-    font-family: "Helvetica Light";
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
     color: #494949;
     text-align: left;
     margin-bottom: 0;
 }
 
 p.title-left-small {
-    font-family: "Helvetica Medium";
+    font-weight: 600;
     color: #494949;
     text-align: left;
     margin-bottom: 0;
 }
 
 p.title-reverse {
-    font-family: "Helvetica Light";
     color: white;
     background-color: #9e9e9f;
     text-align: center;
