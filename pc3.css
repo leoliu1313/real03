@@ -1,0 +1,59 @@
+.container-center {
+    max-width: 78%; /* 78% */
+    box-shadow: 20px 0px 50px 0px black;
+}
+
+.container-background {
+    font-size: 20px;
+}
+
+p.title-left {
+    font-size: 30px;
+}
+	
+p.title-reverse {
+    line-height: 120px; /* 13.75% */
+}
+
+.row-top {
+    height: 100px; /* 13% */
+    padding: 28px; /* 3% */
+}
+
+.row-margin {
+    margin-bottom: 60px; /* 8% */
+}
+
+.row-margin-small {
+    margin-bottom: 40px; /* 7.5% */
+}
+
+.row-bottom-margin {
+    margin-bottom: 120px; /* 14.5% */
+}
+
+.img-banner-small {
+    display: none;
+}
+
+.img-banner {
+    display: block;
+}
+
+.button-wrapper {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    width: 78%; /* 78% */
+    margin-top: 38%;
+}
+
+.btn-top,
+.btn-top:focus {
+    color: #DADF00;
+    background-color: #595959;
+    border-color: #ccc;
+    width: 250px;
+    line-height: 2.3;
+}
