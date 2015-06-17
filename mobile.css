@@ -50,10 +50,14 @@ body {
     padding: 0;
 }
 
+.container-top-txt {
+    padding: 10px 15px 10px;
+}
+
 .row-top {
     height: 80px; /* 13% */
     text-align: left;
-    padding: 27px; /* 3% */
+    padding: 15px 27px 32px; /* 3% */
 }
 
 .row-no-margin {
@@ -99,6 +103,16 @@ p.title {
     margin-bottom: 0;
 }
 
+p.title-top {
+    display: inline-block;
+    float: left;
+    padding: 0 10px 0;
+    font-weight: 600;
+    color: #aea835;
+    text-align: center;
+    margin-bottom: 0;
+}
+
 p.title-left {
     font-size: 20px;
     font-family: 'Libre Baskerville', serif;
@@ -124,8 +138,8 @@ p.title-reverse {
 }
 
 .img-logo {
-    max-height: 100%;
-    max-width: 100%;
+    display: inline-block;
+    height: 26px;
 }
 
 .img-center {
@@ -155,4 +169,17 @@ p.title-reverse {
 
 .button-wrapper {
     display: none;
+}
+
+.txt-wrapper {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    color: white;
+    font-family: 'Droid Serif', serif;
+    font-style: italic;
+    font-size: 15px;
+    margin-top: 80px;
+    margin-left: 20px;
+    width: 60%;
 }

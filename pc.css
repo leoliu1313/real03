@@ -7,6 +7,16 @@
     font-size: 20px;
 }
 
+.container-top-txt {
+    padding: 0 15px 0;
+}
+
+p.title-top {
+    display: inline-block;
+    font-size: 14px;
+    padding: 10px 9px 0;
+}
+
 p.title-left {
     font-size: 30px;
 }
@@ -30,6 +40,10 @@ p.title-reverse {
 
 .row-bottom-margin {
     margin-bottom: 120px; /* 14.5% */
+}
+
+.img-logo {
+    height: 34px;
 }
 
 .img-banner-small {
@@ -56,4 +70,8 @@ p.title-reverse {
     border-color: #ccc;
     width: 250px;
     line-height: 2.3;
+}
+
+.txt-wrapper {
+    display: none;
 }
